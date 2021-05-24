@@ -19,17 +19,9 @@ Secure and customizable compute service that lets you create and run virtual mac
 
 ![Chara_create](https://user-images.githubusercontent.com/44014471/119354833-7d3fe380-bcdf-11eb-92c7-6a7f655ff019.gif)
 
-### Chaha list
+### Chara list
 
 ![Chara_list](https://user-images.githubusercontent.com/44014471/119354887-8df05980-bcdf-11eb-90d9-6ab7bf5840b6.gif)
-
-### Matching
-
-![Matching](https://user-images.githubusercontent.com/44014471/119354923-96489480-bcdf-11eb-8a6b-da304fb77ffd.gif)
-
-### Battle
-
-![Battle](https://user-images.githubusercontent.com/44014471/119354932-99438500-bcdf-11eb-8fe2-e6c903424cd3.gif)
 
 ### Rate matching
 
@@ -42,6 +34,10 @@ Secure and customizable compute service that lets you create and run virtual mac
 ### Computer
 
 ![Computer](https://user-images.githubusercontent.com/44014471/119355031-b8421700-bcdf-11eb-9205-b75ca4713f65.gif)
+
+### Battle
+
+![Battle](https://user-images.githubusercontent.com/44014471/119354932-99438500-bcdf-11eb-8fe2-e6c903424cd3.gif)
 
 ### Ranking
 
